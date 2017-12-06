@@ -17,5 +17,3 @@ This is easy way to change your Minergate console client to managed service.
 
 Mischa [it@ujak.cz]
 Donate bitcoin: 1BD6WQiwSGh5N8jWcZVycroYTmn88mNrdz
-
-
